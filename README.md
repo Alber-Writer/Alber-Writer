@@ -1,5 +1,5 @@
 # Hi 👋, I'm Alberto Escribano!
-### 🚀 I love building web interfaces, combining Front-End development with effective Designs.
+### 🚀 I love building web interfaces, combining Front-End Development with effective Designs.
 ---
 - 📖 I have worked in the field of graphic/web design and development for many years, creating a significant number of HTML, CSS and JS landing pages, websites and components from scratch.
 
@@ -22,8 +22,7 @@
 ### Here you can check out some *labs* developed in my latest cursed formation at "Lemoncode's Front-End Master":
 - Task Manager build with *Nuxt(Vue)* and *Tailwind*, with persisted storage:
   - Code: [ToDo Vue App](https://github.com/Alber-Writer/lemoncode-lab-vue)
-
- <!-- - Live preview: [ToDo app:](https://github.com/Alber-Writer/lemoncode-lab-vue) -->
+  - Live preview: [ToDo app:](https://alber-writer.github.io/lemoncode-lab-vue/)
  
     
 - Design system developed using *SCSS* and *Css Modules*, for the App *BeerGeek Menu*:
