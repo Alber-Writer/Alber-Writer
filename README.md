@@ -15,7 +15,7 @@
 
 - LinkedIn profile: [ linkedin.com/in/alberto-escribano](https://www.linkedin.com/in/alberto-escribano)
  
-- My personal site:  [Alber-Web.com](www.alber-web.com)
+- My personal site:  [Alber-Web.com](https://www.alber-web.com)
 
 ---
 
@@ -33,8 +33,8 @@
 
 - Rick and Morty Index App (😁 Yes! ...sorry, I know... there are tons of Rick and Morty apps in the multiverse):
   - Code: [Rick and Morty App:]([https://github.com/Alber-Writer/lemoncode-lab-vue](https://github.com/Alber-Writer/lemoncode-rest-api))
-  - Live preview: [Visit Rick and Morty App at GitHub Pages](https://alber-writer.github.io/lemoncode-cloud-lab-basic-manual/#/characters/)
-  > Also deployed in many providers for practice, like: GH-pages, Azure, AWS... some manually, others automated with docker images
+  - Live preview: [Visit my "Rick and Morty App" version: ](https://alber-writer.github.io/lemoncode-cloud-lab-basic-manual/#/characters/)
+  > Also deployed in many providers for practice, like: GH-pages, Azure, AWS... some manually, others automated with docker images or GH workflows.
 
   <!-- feature/best-sentences -->
   <!-- feature/optional-exercise-graphql-version -->
