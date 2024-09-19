@@ -15,7 +15,7 @@
 
 ### 💬 Connect with me:
 
-- LinkedIn profile: [ linkedin.com/in/alberto-escribano](https://www.linkedin.com/in/alberto-escribano)
+- LinkedIn profile: [ linkedin.com/in/alberto-escribano](https://www.linkedin.com/in/alberto-escribano){:target="_blank" rel="noopener"}
  
 - My personal site:  [Alber-Web.com](https://www.alber-web.com)
 
@@ -23,12 +23,13 @@
 
 ### 👁️ Here you can check out some *labs* developed in my latest cursed formation at "Lemoncode's Front-End Master":
 - Rick and Morty Index App (😁 Yes! ...sorry, I know... there are tons of Rick and Morty apps in the multiverse):
-  - Code: [Rick and Morty App:](https://github.com/Alber-Writer/lemoncode-lab-vue](https://github.com/Alber-Writer/lemoncode-rest-api))
+  - Code: [Rick and Morty App:](https://github.com/Alber-Writer/lemoncode-lab-vue](https://github.com/Alber-Writer/lemoncode-rest-api)
   - Live preview: [Visit my "Rick and Morty App" version: ](https://alber-writer.github.io/lemoncode-cloud-lab-basic-manual/#/characters/)
   > Also deployed in many providers for practice, like: GH-pages, Azure, AWS... some manually, others automated with docker images or GH workflows.
+  
   > More versions: 
-    - [GraphQl version](https://github.com/Alber-Writer/lemoncode-rest-api/tree/feature/optional-exercise-graphql-version)
-    - [Add Best Sentences Feture (only local server)](https://github.com/Alber-Writer/lemoncode-rest-api/tree/feature/best-sentences)
+    - [Code of GraphQl version](https://github.com/Alber-Writer/lemoncode-rest-api/tree/feature/optional-exercise-graphql-version)
+    - [Best Sentences Feature (only local server)](https://github.com/Alber-Writer/lemoncode-rest-api/tree/feature/best-sentences)
 
 - Task Manager build with *Nuxt(Vue)* and *Tailwind*, with persisted storage:
   - Code: [ToDo Vue App](https://github.com/Alber-Writer/lemoncode-lab-vue)
